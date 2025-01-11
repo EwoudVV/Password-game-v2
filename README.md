@@ -9,4 +9,3 @@
  - High score for levels reached
  - Intuitive and good looking UI
  - Level count
-#### Project made for Hack Club High Seas
